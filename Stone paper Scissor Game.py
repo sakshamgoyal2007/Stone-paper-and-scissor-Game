@@ -4,7 +4,7 @@ print("Hi Guys😃😃")
 2 for paper
 3 for scissor '''
 
-print("YOU ARE PLAYING STONE-PAPER-SCISSOR WITH CONPUTER")
+print("YOU ARE PLAYING STONE-PAPER-SCISSOR WITH COMPUTER")
 C=random.choice([1,2,3])
 choicedict={1:"s",2:"p",3:"c"}
 reversedict={"s":1,"p":2,"c":3}
